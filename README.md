@@ -89,6 +89,10 @@ The affected test account then read the IT validation file successfully.
 
 </details>
 
+## Related service desk coursework
+
+The [Ticketing Systems and Service Desk Workflows case study](case-studies/ticketing-systems.md) documents an earlier four-person SAIT assignment. Worked on comparison research and a Freshdesk setup and ticket-handling exercise, including replies, assignment, and closure. The case study includes group attribution and selected screenshots with account details masked. Historical comparison figures are not presented as current product guidance. This coursework is separate from the three October 2026 Windows lab tickets above.
+
 ## Documentation and scope
 
 The [ticket write-ups](tickets/) contain the full investigation sequence and links to the [supporting screenshots](evidence/). A successful port test is treated as connectivity evidence; file reads under the affected account establish actual access. GPO application was inspected, but every individual setting was not separately tested. The workstation's exact Windows edition and DHCP address lease were not independently captured; DHCP-provided DNS was explicitly verified.
